@@ -13,3 +13,6 @@
 [submodule "Top-Down-Shooter"]
 	path = Top-Down-Shooter
 	url = git@github.com:FarhanDipto/Top-Down-Shooter.git
+[submodule "Cruzin-Web-Browser"]
+	path = Cruzin-Web-Browser
+	url = https://github.com/FarhanDipto/Cruzin-Web-Browser.git
