@@ -1,0 +1,15 @@
+[submodule "PowerUp-Gym-Management-System"]
+	path = PowerUp-Gym-Management-System
+	url = https://github.com/FarhanDipto/PowerUp-Gym-Management-System.git
+[submodule "CuisineCourier"]
+	path = CuisineCourier
+	url = https://github.com/FarhanDipto/CuisineCourier.git
+[submodule "Art-Vending-Management-Studio"]
+	path = Art-Vending-Management-Studio
+	url = https://github.com/FarhanDipto/Art-Vending-Management-Studio.git
+[submodule "Smartext"]
+	path = Smartext
+	url = git@github.com:FarhanDipto/Smartext.git
+[submodule "Top-Down-Shooter"]
+	path = Top-Down-Shooter
+	url = git@github.com:FarhanDipto/Top-Down-Shooter.git
